@@ -1,13 +1,23 @@
 # Time-Series
 
-This code is performing time series analysis on different datasets using Python libraries such as pandas, seaborn, matplotlib, and statsmodels.
+| :books: Vitrine.Dev |     |
+| -------------  | --- |
+| :sparkles: Nome        | **Time Series**
+| :label: Tecnologias | python (pandas, seaborn, matplotlib)
 
-The code reads several CSV files containing time series data, preprocesses the data by converting date columns to the datetime format and handling missing values, and then visualizes the time series using line plots.
+<!-- Inserir imagem com a #vitrinedev ao final do link -->
+![](https://vitrinedev.s3.amazonaws.com/time-series.png#vitrinedev)
 
-The autocorrelation of each time series is computed and visualized using autocorrelation plots to determine if there is any significant correlation between data points at different lags.
+## Detalhes do projeto
 
-Additionally, the code calculates the first and second differences of each time series and plots them to visualize the trend, seasonality, and irregular components of the data.
+Este código realiza análise de séries temporais em diferentes conjuntos de dados usando bibliotecas Python como pandas, seaborn, matplotlib e statsmodels.
 
-Finally, the code compares the time series data and their differences (i.e., increase and acceleration) to understand the relationships between the variables.
+O código lê vários arquivos CSV contendo dados de séries temporais, pré-processa os dados convertendo colunas de data para o formato datetime e lidando com valores ausentes. Em seguida, visualiza as séries temporais usando gráficos de linha.
 
-Overall, this code performs a comprehensive analysis of the time series data and provides insights into the trends, seasonality, and patterns of the data.
+A autocorrelação de cada série temporal é calculada e visualizada usando gráficos de autocorrelação para determinar se existe alguma correlação significativa entre os pontos de dados em diferentes defasagens.
+
+Além disso, o código calcula as primeiras e segundas diferenças de cada série temporal e as plota para visualizar a tendência, sazonalidade e componentes irregulares dos dados.
+
+Finalmente, o código compara os dados de séries temporais e suas diferenças (ou seja, aumento e aceleração) para entender as relações entre as variáveis.
+
+Em resumo, este código realiza uma análise abrangente dos dados de séries temporais e fornece insights sobre as tendências, sazonalidade e padrões dos dados.
