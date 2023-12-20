@@ -3,7 +3,7 @@
 | :books: Vitrine.Dev |     |
 | -------------  | --- |
 | :sparkles: Nome        | **Time Series**
-| :label: Tecnologias | python (pandas, seaborn, matplotlib)
+| :label: Tecnologias | python, pandas, seaborn, matplotlib
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
 ![](https://vitrinedev.s3.amazonaws.com/time-series.png#vitrinedev)
